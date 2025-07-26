@@ -14,7 +14,7 @@ npm install
 yarn
 
 
-## RUN APP
+### 2. Run Application
 
 ```bash
 npm run dev
